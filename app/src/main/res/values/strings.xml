@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Chat</string>
+    <string name="we_will_send_you_an">Мы отправим вам</string>
+    <string name="login">Войти</string>
+    <string name="signUp">Зарегистрироваться</string>
+    <string name="typeNum">Введите ваш номер</string>
+    <string name="onNextPhone">на следующий номер...</string>
+    <string name="authorize">Вход</string>
+    <string name="oneTimePass">одноразовый код</string>
+</resources>
